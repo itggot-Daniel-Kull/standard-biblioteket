@@ -1,0 +1,11 @@
+Documentation
+
+# var - The 'Classtype' to .....
+# 
+#
+# Examples
+#   
+# function(var)
+# # => var
+#
+# Returns the inputed number.

@@ -1,3 +1,11 @@
+# arr - The Array to be searched for the biggest number
+# 
+# Examples
+#   
+# max_of_x([3,8,5,3,7,10,23,5,6])
+# # => 3
+#
+# Returns the smallest number in the list.
 def min_of_x(arr)
     # correct_input = true
     # arr.each do |x|
